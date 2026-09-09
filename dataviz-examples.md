@@ -1,6 +1,8 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Data visualization examples
+![GDP-to-Debt ratio 1995-2019, OECD 2025]( https://andrewcmu-my.sharepoint.com/:i:/g/personal/ckwarisi_andrew_cmu_edu/IQB8RpeT-QzZT5tAJxSEUgblAfD3USLV-U_Vu8ep9jMZERM?e=Plk7mB)
+
                 
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1788917590971');                    
