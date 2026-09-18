@@ -37,7 +37,7 @@ Outside of these particular points, the suggestion was to use a more familiar gr
 
 So I went back to the drawing board with the realization that in this case, less is more. 
 
-I fixed my sights on a dashboard with a tree map and a bar chart. Both very simple and yet effective. 
+I fixed my sights on a [dashboard](https://public.tableau.com/views/ChevonneKwarisiima_MakeoverMondayFinal/FinalDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  with a tree map and a bar chart. Both very simple and yet effective. 
 
 For the tree map, I created a group within Tableau for 'All other countries'. This allowed me to include their share of GDP without over crowding the tree map. Noticeably this is the largest share, but in context that section is an aggregation of GDP data from more than 180 countries. 
 
