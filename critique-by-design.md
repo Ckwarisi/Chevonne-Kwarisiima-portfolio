@@ -4,7 +4,7 @@
 For this assignment, I redesigned a visualization of the Top 10 GDPs ranked. 
 
 ## Step one: the visualization
-The [original version] (https://makeovermonday.vercel.app/submissions/2026/34) was very cut and dry. Just a table showing ranked GDPs and share of global GDP. Given that the original visualization is on a page that is targeted towards people, seemingly professionals looking for statistics of different kinds, I understood the need for simplicity but really wanted to play around with creativity. 
+The [original version](https://makeovermonday.vercel.app/submissions/2026/34) was very cut and dry. Just a table showing ranked GDPs and share of global GDP. Given that the original visualization is on a page that is targeted towards people, seemingly professionals looking for statistics of different kinds, I understood the need for simplicity but really wanted to play around with creativity. 
 
 I chose this visualization because of my interest in economic development.
 
