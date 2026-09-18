@@ -3,7 +3,7 @@
 # Data visualization examples
 ##Working with Government Data
 <iframe 
-src"https://public.tableau.com/views/WorkingwithTableauGovernmentData/Debt-to-GDPratio2019?:showVizHome=no&:embed=true"width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
+src"https://public.tableau.com/views/WorkingwithTableauGovernmentData/Debt-to-GDPratio2019?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
 
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1788919053158');                    
@@ -16,7 +16,7 @@ src"https://public.tableau.com/views/WorkingwithTableauGovernmentData/Debt-to-GD
 
 ##Makeover Monday 
 <iframe 
-src"https://public.tableau.com/views/ChevonneKwarisiima_MakeoverMondayFinal/FinalDashboard?:showVizHome=no&:embed=true"width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
+src"https://public.tableau.com/views/ChevonneKwarisiima_MakeoverMondayFinal/FinalDashboard?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
 
 <script type='text/javascript'>                    
 var divElement = document.getElementById('viz1789697336010');                    
