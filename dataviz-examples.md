@@ -16,7 +16,9 @@ src"https://public.tableau.com/views/WorkingwithTableauGovernmentData/Debt-to-GD
 
 ##Makeover Monday 
 
-![makeover](Final Dashboard.png)
+![Dashboard](Dashboard.jpg)
+
+
 <iframe 
 src"https://public.tableau.com/views/ChevonneKwarisiima_MakeoverMondayFinal/FinalDashboard?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
 
