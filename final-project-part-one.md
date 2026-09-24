@@ -31,9 +31,23 @@ I anticipate using Shorthand, tableau and possibly canva to visualize my data. C
 
 
 ## References
+ AVCA. “2025 Venture Capital in Africa Report.” Accessed September 23, 2026. https://www.avca.africa/data-intelligence/research-publications/2025-venture-capital-in-africa-report/.
+ 
+Dembitzer, Benny. “Aid Is Not Development: We Need a Different Conversation.” Social Europe, February 27, 2026. https://www.socialeurope.eu/aid-is-not-development-we-need-a-different-conversation.
+
+ “USAID Officially Shuts down and Merges Remaining Operations with State Department.” World. NPR, July 1, 2025. https://www.npr.org/2025/07/01/nx-s1-5451372/usaid-officially-shuts-down-and-merges-remaining-operations-with-state-department.
+
+“How Cities Can Spark Economic Transformation through Entrepreneur-Led Economic Development.” National League of Cities, May 1, 2025. https://www.nlc.org/article/2025/05/01/how-cities-can-spark-economic-transformation-through-entrepreneur-led-economic-development/.
+
+Statista. “Africa: Leading Cities for Startups 2026.” Accessed September 23, 2026. https://www.statista.com/statistics/1275285/top-cities-for-startups-in-africa/.
+
+Statista. “Africa: Share of VC Deals by Sector.” Accessed September 23, 2026. https://www.statista.com/statistics/1289447/share-of-number-of-vc-deals-in-africa-by-sector/.
+
+Statista. “Top Countries for Startups in Africa 2026.” Accessed September 23, 2026. https://www.statista.com/statistics/1275303/top-countries-for-startups-in-africa/.
+
+Statista. “Venture Capital.” Accessed September 23, 2026. https://www.statista.com/outlook/fmo/capital-raising/traditional-capital-raising/venture-capital/custom/.
+
 
 
 ## AI acknowledgements
-I did not use AI in the completion of this assignment
-
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I did not use AI in the completion of this assignment.
