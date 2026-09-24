@@ -9,11 +9,19 @@ Venture Capital is one of many financing methods for startups and the main focus
 
 My aim is that by highlighting recent trends in VC in Africa, more venture funds will be interested in allocating funds specifically to African Start-Ups. To do so, I will highlight trends in total VC funding within Africa over the past 5 years, and what cities and countries are currently hotspots for VCs ( hence have established startup ecosystems and infrastructure to support entrepreneurs). 
 
-![Initialviz](Initialviz.jpg)
+![Story](Story.jpg)
 
 ## Initial sketches
 
+![Map1](Map1.jpg)
 
+![Trend](Trend.jpg)
+
+![Sector](Sector.jpg)
+
+![Map2](Map2.jpg)
+
+![Tier](Tier.jpg)
 # The data
 My data primarily comes from Statista. For cases where the statista data available is outdated, I will be retrieving more up-to-date data directly from the source highlighted in statista submissions.
 
