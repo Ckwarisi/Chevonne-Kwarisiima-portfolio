@@ -46,6 +46,7 @@ Statista. “Africa: Share of VC Deals by Sector.” Accessed September 23, 2026
 Statista. “Top Countries for Startups in Africa 2026.” Accessed September 23, 2026. https://www.statista.com/statistics/1275303/top-countries-for-startups-in-africa/.
 
 Statista. “Venture Capital.” Accessed September 23, 2026. https://www.statista.com/outlook/fmo/capital-raising/traditional-capital-raising/venture-capital/custom/.
+
 ## AI acknowledgements
  I did not use AI to complete this assignment. 
 
