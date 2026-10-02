@@ -4,7 +4,6 @@
 
 ## Target audience
 My user research included posing certain questions to three classmates in their 20s in the Health Care Analytics, Public Policy and Management,and Arts Management programs accordingly. I gave them specific guiding questions that I will use to continue with my project. 
-Text here!
 
 ## Interview script 
 
@@ -17,13 +16,12 @@ Text here!
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
+
+
+I really enjoy your approach and framing of the project! I think the first-person narration is unique, and the explorative nature is compelling as well, particularly from someone like myself who knows very little about VC.            |             |             |
 |                         |                                |             |             |
 |                         |                                |             |             |
 
