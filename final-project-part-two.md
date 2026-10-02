@@ -8,7 +8,6 @@ My user research included posing certain questions to three classmates in their 
 
 
 | Goal | Questions to Ask |
-
 | Understanding whether I am telling the story effectively | What was your main takeaway from what I have so far? |
 | Gauging whether my choice of storyline is engaging | What are your thoughts with my choice of story being my journey of  exploration of the topic? |
 | Receive suggestions for improvement | What if any thoughts do you have on improvements I could make.|
