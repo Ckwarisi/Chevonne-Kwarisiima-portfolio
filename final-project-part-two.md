@@ -1,30 +1,20 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
-Text here!
-
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
+> My user research included posing certain questions to three classmates in their 20s in the Health Care Analytics, Public Policy and Management,and Arts Management programs accordingly. I gave them specific guiding questions that I will use to continue with my project. 
 Text here!
 
-## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+## Interview script 
 
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Understanding whether I am telling the story effectively | What was your main takeaway from what I have so far? |
+| Gauging whether my choice of storyline is engaging | What are your thoughts with my choice of story being my journey of  exploration of the topic? |
+| Receive suggestions for improvement | What if any thoughts do you have on improvements I could make.|
 
-
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
