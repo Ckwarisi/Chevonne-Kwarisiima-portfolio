@@ -30,8 +30,6 @@ What if any thoughts do you have on improvements I could make. | Include the ful
 | I need to make the stacked line graph more understandable. | VC fund flowing to Africa is such a small portion in the greater VC Pie, the stacked line graph visualization doesn't relay the message as well. I might need to change visualizations. Since I've already addressed proportion of funding in the graduated point map, maybe I could use a simple line graph to show trends. |
 | Generally need to clean up typos, visualization titles, and Write words in their full form rather than abbreviations | As I work towards a final draft I need to work on cleaning up my page and making it understandable for absolute beginners |
 
-
-## References
 ## References
  AVCA. “2025 Venture Capital in Africa Report.” Accessed September 23, 2026. https://www.avca.africa/data-intelligence/research-publications/2025-venture-capital-in-africa-report/.
  
