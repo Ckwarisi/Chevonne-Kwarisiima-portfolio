@@ -3,7 +3,7 @@
 # User research 
 
 ## Target audience
-> My user research included posing certain questions to three classmates in their 20s in the Health Care Analytics, Public Policy and Management,and Arts Management programs accordingly. I gave them specific guiding questions that I will use to continue with my project. 
+My user research included posing certain questions to three classmates in their 20s in the Health Care Analytics, Public Policy and Management,and Arts Management programs accordingly. I gave them specific guiding questions that I will use to continue with my project. 
 Text here!
 
 ## Interview script 
