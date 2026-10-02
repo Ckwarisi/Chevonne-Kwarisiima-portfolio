@@ -21,7 +21,7 @@ My user research included posing certain questions to three classmates in their 
 |-------------------------|--------------------------------|-------------|-------------|
 
 
-I really enjoy your approach and framing of the project! I think the first-person narration is unique, and the explorative nature is compelling as well, particularly from someone like myself who knows very little about VC.            |             |             |
+|             |             |
 |                         |                                |             |             |
 |                         |                                |             |             |
 
