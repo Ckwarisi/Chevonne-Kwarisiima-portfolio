@@ -8,3 +8,7 @@
 ## Makeover Monday 
 
 ![Dashboard](Dashboard.jpg)
+
+## AI Acknowledgements
+
+I did not use AI in the making of these visualizations
