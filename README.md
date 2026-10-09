@@ -4,6 +4,10 @@
 This is my public portfolio for Telling Stories with Data at CMU, you'll be able to see the work I have done over the course of this class.
 
 Web page URL: https://ckwarisi.github.io/Chevonne-Kwarisiima-portfolio/
+
+
+Repository URL : https://github.com/Ckwarisi/Chevonne-Kwarisiima-portfolio
+
 Final Project webpage: https://carnegiemellon.shorthandstories.com/ChevonneKwarisiimaFinalProject/index.html 
 
 # About me
