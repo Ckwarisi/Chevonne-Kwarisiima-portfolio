@@ -19,5 +19,5 @@ I love connecting people to resources and knowledge and taking this is my attemp
 
 
 ## AI acknowledgements
-I did not use any AI on this page.
+I did not use AI in the development of this page.
 
