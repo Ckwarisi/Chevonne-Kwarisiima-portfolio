@@ -25,7 +25,6 @@ What if any thoughts do you have on improvements I could make. | Include the ful
 
 
 | Research synthesis  | Anticipated changes for Part III                   |
-
 | There is an interest for the story to include why VC funding is low in Africa & why can be done to encourage more funding to flow into Africa | I will be including this aspect into my story line because it does feel more conclusive for me. My initial idea was a broad overview which was fine but understanding why and what can be done feels like a better conclusion to the story |
 | I need to make the stacked line graph more understandable. | VC fund flowing to Africa is such a small portion in the greater VC Pie, the stacked line graph visualization doesn't relay the message as well. I might need to change visualizations. Since I've already addressed proportion of funding in the graduated point map, maybe I could use a simple line graph to show trends. |
 | Generally need to clean up typos, visualization titles, and Write words in their full form rather than abbreviations | As I work towards a final draft I need to work on cleaning up my page and making it understandable for absolute beginners |
