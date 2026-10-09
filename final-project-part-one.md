@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://ckwarisi.github.io/Chevonne-Kwarisiima-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Outline
 Development aid has historically been the main means to financing growth and development in developing nations. In the past few years,the development landscape has [undergone many changes ](https://www.npr.org/2025/07/01/nx-s1-5451372/usaid-officially-shuts-down-and-merges-remaining-operations-with-state-department). At the same time, [criticism for the effectiveness of development aid](https://www.socialeurope.eu/aid-is-not-development-we-need-a-different-conversation) has caused me to wonder if there are alternative methods to finance development. 
