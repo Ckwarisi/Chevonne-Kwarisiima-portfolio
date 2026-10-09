@@ -46,3 +46,7 @@ For the Bar graph, I ranked the GDP in descending order and included labels at t
 The dashboard has a filter to enable easy 'zooming in' on one or a few countries. 
 
 ![Dashboard](Dashboard.jpg)
+
+## AI acknowledgements
+
+I did not use any AI in the making of these visualizations
