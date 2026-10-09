@@ -8,8 +8,7 @@ Since Part II, I included a section on why there is so little VC funding going i
 
 I also omitted the stacked area graph and chose to focus on a line graph that zoned in on VC, this seemed like a good move to make the visualization more understandable as previous versions were more crowded. Because the make shows proportion and juxtaposes against the four markets I looked at ( The Americas, Europe, Asia, and Africa), I felt that trend was the more important factor to visualize. In the original graph, Africa's portion of the funding is so small that it barely showed up in the stacked area graph. By doing a line graph with an Africa focus, my audience was better able to focus on my intended focal point.
 
-
-Finally, I cleaned up the document, including citations and clearing up any typos.
+Finally, I cleaned up the document, including citations and clearing up any typos to improve the readability and overall quality of my work.
 
 ## The audience
 The Audience for my story are fund leaders in Venture Capital. My final call to action to them was to create funding pools dedicated specifically to African startups, I also share information on cities and sectors that are currently booming for startups on the African continent.
