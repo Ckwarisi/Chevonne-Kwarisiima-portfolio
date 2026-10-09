@@ -27,7 +27,7 @@ My data primarily comes from Statista. For cases where the statista data availab
 
 The Statista team put together a [market insights page](https://www.statista.com/outlook/fmo/capital-raising/traditional-capital-raising/venture-capital/custom?token=-uSleEY2pgKiPfkv5DMHi6ix11rL1OinD8E3-dectfGjot7agg1wLIWl59thgMOaMb96mQQ_-QRqNY0cbMvBeVa4Tl7T_obQssQmmFsecf8RDnXzmLJe&currency=USD/#capital-raised) that houses data on the amount of VC funding going into different regions per year, the number of deals and the average deal size. 
 
-The [2026 Start-up Ecosystem ratings report](https://www.statista.com/statistics/1275303/top-countries-for-startups-in-africa/ showcases data on what African countries are best for startups. Similarly, [Startup Blink](https://www.statista.com/statistics/1275285/top-cities-for-startups-in-africa/)has its own data on what cities are best for startups.
+The [2026 Start-up Ecosystem ratings report](https://www.statista.com/statistics/1275303/top-countries-for-startups-in-africa/) showcases data on what African countries are best for startups. Similarly, [Startup Blink](https://www.statista.com/statistics/1275285/top-cities-for-startups-in-africa/)has its own data on what cities are best for startups.
 
 The [African Private Equity and Venture Capital Association](https://www.statista.com/statistics/1289447/share-of-number-of-vc-deals-in-africa-by-sector/) has quite a bit of data on sector share of VC funding. More updated data is in their [2025 report](https://www.avca.africa/data-intelligence/research-publications/2025-venture-capital-in-africa-report/) which I will need to manually retrieve. 
 
