@@ -3,7 +3,7 @@
 # Data visualization examples
 ## Working with Government Data
 
-![GovtData](GovtData.jpg)
+![GovtData](GovtData.jpeg)
 
 ## Makeover Monday 
 
